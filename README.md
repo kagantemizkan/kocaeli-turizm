@@ -1,4 +1,4 @@
-# CodeIgniter(Bacd-end) 4 & ReactJS + Vite (Front-End) Bus Ticket Webapp
+# CodeIgniter(BackEnd) 4 & ReactJS + Vite (FrontEnd) Bus Ticket Webapp
 
 ![chrome-capture-2024-3-15](https://github.com/kagantemizkan/kocaeli-turizm/assets/46727689/c9898f98-e0be-4593-90cc-00ab0178ad99)
 ![chrome-capture-2024-3-15 (1)](https://github.com/kagantemizkan/kocaeli-turizm/assets/46727689/bc44b2ea-c1ef-4e0f-a2b2-f361dcd4cbbe)
